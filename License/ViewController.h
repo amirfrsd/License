@@ -8,8 +8,13 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-
+@interface ViewController : UIViewController{
+    IBOutlet UILabel *UDID;
+    IBOutlet UILabel *activationStatus;
+    IBOutlet UIButton *active;
+}
+-(IBAction)refreshStatus:(id)sender;
+-(IBAction)activeMyApp:(id)sender;
+-(IBAction)help:(id)sender;
 @end
 

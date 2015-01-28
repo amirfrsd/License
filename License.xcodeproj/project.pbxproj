@@ -14,6 +14,7 @@
 		47C2202F1A78B65B00D850A1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47C2202E1A78B65B00D850A1 /* Images.xcassets */; };
 		47C220321A78B65B00D850A1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 47C220301A78B65B00D850A1 /* LaunchScreen.xib */; };
 		47C2203E1A78B65B00D850A1 /* LicenseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 47C2203D1A78B65B00D850A1 /* LicenseTests.m */; };
+		47C220481A78B68600D850A1 /* KoodakBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 47C220471A78B68600D850A1 /* KoodakBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		47C220371A78B65B00D850A1 /* LicenseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LicenseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		47C2203C1A78B65B00D850A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		47C2203D1A78B65B00D850A1 /* LicenseTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LicenseTests.m; sourceTree = "<group>"; };
+		47C220471A78B68600D850A1 /* KoodakBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = KoodakBold.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		47C220211A78B65B00D850A1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				47C220471A78B68600D850A1 /* KoodakBold.ttf */,
 				47C220221A78B65B00D850A1 /* Info.plist */,
 				47C220231A78B65B00D850A1 /* main.m */,
 			);
@@ -199,6 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47C220481A78B68600D850A1 /* KoodakBold.ttf in Resources */,
 				47C2202D1A78B65B00D850A1 /* Main.storyboard in Resources */,
 				47C220321A78B65B00D850A1 /* LaunchScreen.xib in Resources */,
 				47C2202F1A78B65B00D850A1 /* Images.xcassets in Resources */,
